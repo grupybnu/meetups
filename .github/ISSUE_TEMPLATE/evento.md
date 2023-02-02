@@ -43,7 +43,7 @@ Em qual contexto a sua talk mais se encaixa?
 
 Alguns dos exemplos de categorias mais usadas: `python`, `django`, `fastapi`, `flask`, `celery`, `kubernetes`, `linux`, `orm`, `programação assíncrona`.
 
-### Dificuldade:
+#### Dificuldade:
 
 Tente se colocar no lugar do seu público e escolha a melhor categoria que sua palestra pode se encaixar: `Iniciante`, `Intermediário`, `Avançado`.
 
