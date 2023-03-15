@@ -12,3 +12,9 @@ Neste repositório, você pode submeter suas palestras para os nossos encontros.
 - A votação acontece através de reações nos comentários.
 - As mais votadas serão apresentadas no encontro.
 - A votação é encerrada pelo menos 5 dias antes do encontro, para iniciar as divulgações.
+
+## Recebendo notificações
+
+Clique em `Watch > All Activity` para acompanhar todas as atualizações deste repositório.
+
+![image](https://user-images.githubusercontent.com/22819523/225190627-1e595b2c-b5e5-4029-bcfd-f4ec5e0b03d2.png)
